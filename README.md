@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-Projeto realizado para analisar os dados relacionados a vacinação da Covid-19. Onde foram coletados os dados de arquivos CSV, tratados e gerados gráficos para análise.
+Projeto realizado para analisar os dados relacionados a vacinação da Covid-19 no Brasil. Onde foram coletados os dados de arquivos CSV, tratados e gerados gráficos para análise.
 
 ### Passos Realizados:
 
